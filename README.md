@@ -2,8 +2,23 @@
 By Emma Bowen
 
 ## Project Overview
+This WGS pipeline downloads paired-end, Illumina, WGS SRA sequence data from the organism Mycobacterium tuberculosis H37Rv, runs quality control of raw data, performs trimming, runs quality control of trimmed data, aligns reads to a reference genome, and performs variant calling.
 
 ## Data Source and Information
+**Organism:** Mycobacterium tuberculosis H37Rv  
+**SRA Run:** SRR38251210
+**Reference Genome:** Mycobacterium tuberculosis H37Rv GCF_000195955.2  
+
+**Sequence Data:**  
+- This data was downloaded from NCBI's Sequence Read Archive, run SRR38251210
+- This sequence data used the platform Illumina and is paired-end, whole genome sequencing
+- https://trace.ncbi.nlm.nih.gov/Traces/?run=SRR38251210
+  
+**Reference Genome Data:**
+- This data was downloaded from NCBI RefSeq assembly
+- Mycobacterium tuberculosis H37Rv reference genome  
+- NCBI RefSeq assembly: GCF_000195955.2
+- https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000195955.2/
 
 ## Project Files
 
