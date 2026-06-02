@@ -23,6 +23,13 @@ This WGS pipeline downloads paired-end, Illumina, WGS SRA sequence data from the
 ## Project Files
 
 ## Tools used
+- fasterq-dump version: 3.4.1
+- fastqc version: v0.12.1
+- trimmomatic version: 0.40
+- bwa version: 0.7.19-r1273
+- samtools version: 1.23.1
+- bcftools
+
 
 ## Pipeline Overview
 
