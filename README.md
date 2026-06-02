@@ -6,7 +6,7 @@ This WGS pipeline downloads paired-end, Illumina, WGS SRA sequence data from the
 
 ## Data Source and Information
 **Organism:** Mycobacterium tuberculosis H37Rv  
-**SRA Run:** SRR38251210
+**SRA Run:** SRR38251210  
 **Reference Genome:** Mycobacterium tuberculosis H37Rv GCF_000195955.2  
 
 **Sequence Data:**  
